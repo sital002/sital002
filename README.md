@@ -64,38 +64,6 @@
       <br>Git
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96">
-      <a target="_blank"  href="https://www.python.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a target="_blank"  href="https://ubuntu.com/" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
-    <td align="center"  width="96">
-      <a target="_blank"  href="https://www.linux.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.gnu.org/software/bash/" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="bash" />
-      </a>
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <a target="_blank"  href="https://www.figma.com/" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="figma" />
-      </a>
-      <br>Figma
-    </td>
-  </tr>
 </table>
 
 <hr>
