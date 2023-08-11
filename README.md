@@ -6,7 +6,6 @@
 
 - 💬 Ask me about **React,JavaScript**
 
-- 📫 How to reach me **sitaladhikari002@gmail.com**
 
 
 
