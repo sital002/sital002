@@ -66,9 +66,3 @@
 </table>
 
 <hr>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sital002&show_icons=true&locale=en&layout=compact" alt="sital002" /></p> 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sital002&show_icons=true&locale=en" alt="sital002" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sital002&" alt="sital002" /></p>
