@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sital Adhikari</h1>
-<h3 align="center">A passionate MERN Stack Developer from Nepal.</h3>
 
 
 - 🌱 I’m currently learning **TypeScript,Next.js,MERN Stack**
